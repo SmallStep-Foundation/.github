@@ -13,7 +13,7 @@ The SmallStep Foundation empowers the GNUStep ecosystem by creating small, focus
 | [Markdown](https://github.com/SmallStep-Foundation/Markdown/) | Markdown editor and viewer with preview. |
 | [MediaPlayer](https://github.com/SmallStep-Foundation/MediaPlayer/) | Simple media player for video playback. |
 | [Minesweeper](https://github.com/SmallStep-Foundation/Minesweeper/) | Classic Minesweeper game. |
-| [NonlinearMontage](https://github.com/SmallStep-Foundation/NonlinearMontage/) | Non-linear video editor with multiple tracks (MLT). |
+| [Montage](https://github.com/SmallStep-Foundation/Montage/) | Non-linear video editor with multiple tracks (MLT). |
 | [Notes](https://github.com/SmallStep-Foundation/Notes/) | Note-taking app with to-dos and task management. |
 | [Paint](https://github.com/SmallStep-Foundation/Paint/) | Simple pixel editor (Paint-style). |
 | [PhotoViewer](https://github.com/SmallStep-Foundation/PhotoViewer/) | Photo viewer with basic editing tools. |
